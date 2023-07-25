@@ -1,5 +1,7 @@
-0x11. C - printf team project
+0x11. C - printf
+
 Group Project:
+
 0. I&#39;m not going anywhere. You can print that wherever you want to. I&#39;m here and I&#39;m
 a Spur for life
 Write a function that produces output according to a format.
